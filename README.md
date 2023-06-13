@@ -12,8 +12,8 @@ my symbolic link data1 links to: /data/raw/Incomepop.gz
 To accomplish my goal, I needed to get a death ratio as my x coordinate and a median income as my y coordinate and have these variables be dependent on their zip codes.
 My makeFile consists of 4 files I created to accomplish the final graph of my hypotheses.
 
-
-??????To run the program dowload the repostiory and run the make file usinf the command $ makefile
+# Usage
+To run the program, download the repository and run the make file using the command `$ make all`
 
 xAxis = To get the death ratio:
 For the numerator, I had to retrieve an initial call type (field 3) of either cardiac arrest or unconsciousness and count by zip code (field 20) how many such records were there altogether.
