@@ -24,4 +24,4 @@ zip = To combine the zipcodes and get the ordered pairs based on each zip: I cre
 
 graph.pdf = To get the final graph: I created two dictionaries to put the x and y coordinates in. I used Matplotlib to create a scatterplot figure of these points that later creates a pdf called graph.pdf. 
 
-Each dot on my chart is a zip code based on the death ratio and median income. My hypothesis is correct as in most cases, the numerator of the fraction gets larger the poorer you are, and the numerator is smaller the richer you are.    
+Each dot on my chart is a zip code based on the death ratio and median income. My hypothesis is correct as in most cases, the denominator of the fraction gets larger the poorer you are, and the denominator is smaller the richer you are.    
